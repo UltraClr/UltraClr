@@ -7,10 +7,8 @@
 
 - 📫 How to reach me **longrongchen@163.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultraclr&show_icons=true&locale=en" alt="ultraclr" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultraclr&show_icons=true&locale=en" alt="ultraclr" /></p>
