@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Talking face generation,Multi Agent**
+- 🌱 I’m currently learning **Code Agent, Multi Agent**, and previously learned **Talking head generation**.
 
 - 📫 How to reach me **longrongchen@163.com**
 
